@@ -1,0 +1,16 @@
+# Unity IP Address List
+# One IP address per line
+# Lines starting with # are comments and will be ignored
+#
+# Add your Unity system IP addresses below:
+# Example format:
+# 10.213.182.85
+# 192.168.1.100
+# 172.16.0.50
+
+# Production Unity Systems
+10.213.182.85
+
+# Add additional Unity IP addresses here:
+# 192.168.1.100
+# 172.16.0.50
