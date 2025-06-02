@@ -1,0 +1,18 @@
+[2025-06-02 12:30:35] [INFO] Unity Backup Runner started
+[2025-06-02 12:30:35] [DEBUG] Script Path: E:\Unity
+[2025-06-02 12:30:35] [DEBUG] Python Script: E:\Unity\create_unity_backup.py
+[2025-06-02 12:30:35] [DEBUG] IP List File: unity_ips.txt
+[2025-06-02 12:30:35] [DEBUG] Browser: chrome
+[2025-06-02 12:30:35] [INFO] Python found: Python 3.13.3
+[2025-06-02 12:30:35] [DEBUG] Valid IP found: 10.213.182.85
+[2025-06-02 12:30:35] [DEBUG] Valid IP found: 10.213.182.85
+[2025-06-02 12:30:35] [INFO] Found 2 valid Unity IP address(es)
+[2025-06-02 12:30:50] [INFO] Credentials provided for user: admtest
+[2025-06-02 12:30:50] [INFO] Force parameter specified, skipping confirmation
+[2025-06-02 12:30:50] [INFO] Starting backup for Unity system: https://10.213.182.85
+[2025-06-02 12:30:50] [DEBUG] Executing: python E:\Unity\create_unity_backup.py https://10.213.182.85 admtest P@ssw0rd --browser chrome
+[2025-06-02 12:31:00] [ERROR] Backup failed for 10.213.182.85 (Exit Code: )
+[2025-06-02 12:31:05] [INFO] Starting backup for Unity system: https://10.213.182.85
+[2025-06-02 12:31:05] [DEBUG] Executing: python E:\Unity\create_unity_backup.py https://10.213.182.85 admtest P@ssw0rd --browser chrome
+[2025-06-02 12:31:50] [ERROR] Backup failed for 10.213.182.85 (Exit Code: )
+[2025-06-02 12:31:50] [INFO] Backup operations completed. Success: 0, Failures: 2, Duration: 00:01:00

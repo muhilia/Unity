@@ -1,0 +1,17 @@
+[2025-06-02 12:47:52] [INFO] Unity Backup Runner started
+[2025-06-02 12:47:52] [DEBUG] Script Path: E:\Unity
+[2025-06-02 12:47:52] [DEBUG] Python Script: E:\Unity\create_unity_backup.py
+[2025-06-02 12:47:52] [DEBUG] IP List File: unity_ips.txt
+[2025-06-02 12:47:52] [DEBUG] Browser: edge
+[2025-06-02 12:47:52] [INFO] Python found: Python 3.13.3
+[2025-06-02 12:47:52] [DEBUG] Valid IP found: 10.213.182.85
+[2025-06-02 12:47:52] [DEBUG] Valid IP found: 10.213.182.85
+[2025-06-02 12:47:52] [INFO] Found 2 valid Unity IP address(es)
+[2025-06-02 12:48:01] [INFO] Credentials provided for user: admtest
+[2025-06-02 12:48:07] [INFO] Starting backup for Unity system: https://10.213.182.85
+[2025-06-02 12:48:07] [DEBUG] Executing backup for 10.213.182.85 using edge browser
+[2025-06-02 12:50:48] [ERROR] Backup failed for 10.213.182.85 (Exit Code: )
+[2025-06-02 12:50:48] [DEBUG] Cleaned up temporary credential file
+[2025-06-02 12:50:53] [INFO] Starting backup for Unity system: https://10.213.182.85
+[2025-06-02 12:50:53] [DEBUG] Executing backup for 10.213.182.85 using edge browser
+[2025-06-02 12:51:26] [DEBUG] Cleaned up temporary credential file
